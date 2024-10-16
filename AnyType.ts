@@ -17,7 +17,7 @@
 
 let  Color : string  = "string";
 // Color = 5;
-console.log(Color);
+console.log(Color); 
 
 Color = "Nilesh Kumar"
 console.log(Color);
