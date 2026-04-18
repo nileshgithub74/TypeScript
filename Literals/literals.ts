@@ -2,9 +2,9 @@
 // Literal : allow the exact values (type ) assing to the variables
 
 
-let direction : "north"| "south"| "east"| "west";
+// let direction : "north"| "south"| "east"| "west";
 
-direction = "north";
+// direction = "north";
 
 
 
